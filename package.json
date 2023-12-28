@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/successful-programmers-club/",
+    "build": "vite build --base=/html_css_101_gallesSs/",
     "preview": "vite preview"
   },
   "devDependencies": {
